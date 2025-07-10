@@ -40,7 +40,5 @@ To build an intelligent, automated resume screening tool that:
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/yourusername/resume-parser-nlp
-cd resume-parser-nlp
-pip install -r requirements.txt
-streamlit run app.py
+git clone https://github.com/yourusername/resume-parser
+cd resume-parser
