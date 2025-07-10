@@ -1,7 +1,3 @@
-Absolutely! Here’s a **professional, clean, and beginner-friendly `README.md`** for your project.
-You can copy–paste this as `README.md` into your project folder.
-
----
 
 ## 📄 Automated Resume Analyzer using Streamlit, NLP, and ML
 
